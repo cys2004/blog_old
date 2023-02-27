@@ -1,0 +1,9 @@
+name = "blog"
+type = "webpack"
+route = 'blog.tcea.top/*'
+zone_id = '4e28badfe9a42a8dbc78a63c3cc56638'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "",entry-point = "workers-site"}
+compatibility_date = "2022-09-03"
